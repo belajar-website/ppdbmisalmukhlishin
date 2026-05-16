@@ -28,10 +28,10 @@ const DEFAULT_FORM_FIELDS = [
 ];
 
 const DEFAULT_SETTINGS = {
-  namaSekolah: "SDN Harapan Bangsa",
-  alamat: "Jl. Pendidikan No. 123, Kota Pelajar, Indonesia 12345",
+  namaSekolah: "MIS Wakaf Al Mukhlishin",
+  alamat: "Jalan Rahmadsyah Desa Kampung Lalang Kecamatan Tanjung Tiram",
   telepon: "(021) 1234-5678",
-  email: "info@sdnharapanbangsa.sch.id",
+  email: "mis.wakaf.almukhlishin@gmail.com",
   deskripsi: "Mencetak generasi penerus bangsa yang cerdas, berakhlak mulia, dan siap menghadapi tantangan masa depan dengan pendidikan berkualitas.",
   statusPendaftaran: "Buka",
   formFields: JSON.stringify(DEFAULT_FORM_FIELDS)
